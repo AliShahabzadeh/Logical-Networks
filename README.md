@@ -9,4 +9,5 @@ In order to use the `.dig` files you need the software in the following reposito
 
 # Course Notes (Italian)
 
-# Rights to use
+# Usage Rights
+This is a university exercise course repository, created solely for free use in learning purposes.
