@@ -1,1 +1,4 @@
+INPUT SIGNALS: a, b, r
+OUTPUT = S, R
 
+EXPRESSION:
