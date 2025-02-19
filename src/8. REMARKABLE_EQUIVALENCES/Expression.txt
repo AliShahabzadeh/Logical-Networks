@@ -1,6 +1,6 @@
 E1) COMMUTATIVE
   INPUT SIGNALS: x, y
-  OUTPUT = z
+  OUTPUT: z
 
   EXPRESSION (z =):
     x . y = y . x
@@ -9,7 +9,7 @@ E1) COMMUTATIVE
 
 E2) ASSOCIATIVE
   INPUT SIGNALS: x, y, z
-  OUTPUT = w
+  OUTPUT: w
 
   EXPRESSION (w =):
     x . y . z  =  (x . y) . z  =  x . (y . z)  =  (x . z) . y
@@ -18,7 +18,7 @@ E2) ASSOCIATIVE
 
 E3) DISTRIBUTIVE
   INPUT SIGNALS: x, y, z
-  OUTPUT = w
+  OUTPUT: w
 
   EXPRESSION (w =):
     (x . y) + (x . z)  =  x . (y + z)
