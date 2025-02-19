@@ -1,5 +1,5 @@
-INPUT SIGNAL(S): X0, X1
-OUTPUT SIGNAL(S): Z (X0 + X1)
+INPUT: X0, X1
+OUTPUT: Z (X0 + X1)
 
 EXPRESSION:
   Z = Z = (X0' . x1')'
