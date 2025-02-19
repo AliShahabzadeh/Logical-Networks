@@ -2,7 +2,7 @@ E1) COMMUTATIVE
   INPUT SIGNALS: x, y
   OUTPUT = z
 
-  EXPRESSION:
+  EXPRESSION (z =):
     x . y = y . x
     x + y = y + x
 
@@ -11,6 +11,62 @@ E2) ASSOCIATIVE
   INPUT SIGNALS: x, y, z
   OUTPUT = w
 
-  EXPRESSION:
+  EXPRESSION (w =):
     x . y . z  =  (x . y) . z  =  x . (y . z)  =  (x . z) . y
     x + y + z  =  (x + y) + z  =  x + (y + z)  =  (x + z) + y
+
+
+E3) DISTRIBUTIVE
+  INPUT SIGNALS: x, y, z
+  OUTPUT = w
+
+  EXPRESSION (w =):
+    (x . y) + (x . z)  =  x . (y + z)
+    (x + y) . (x + z)  =  x + (y . z)
+
+
+E4) IDEMPOTENCE
+  INPUT SIGNALS: x
+  OUTPUT: x
+
+  EXPRESSION:
+    x = x . x
+    x = x + x
+
+
+E5) IDENTITY
+  INPUT SIGNALS: x
+  OUTPUT: x
+
+  EXPRESSION:
+    x = x + 0
+    x = x . 1
+
+
+E6) LIMIT
+  INPUT SIGNALS: x
+  OUTPUT: SIGNAL
+
+  EXPRESSION:
+    1 = x + 1
+    0 = x . 0
+
+
+E7) INVOLUTION
+  INPUT SIGNALS: x
+  OUTPUT: x
+
+  EXPRESSION:
+    x = (x')'
+
+
+E8) LIMITATION
+  INPUT SIGNALS: x
+  OUTPUT: SIGNAL
+
+  EXPRESSION:
+    1 = x + x'
+    0 = x . x'
+
+
+E9) COMBINATION
