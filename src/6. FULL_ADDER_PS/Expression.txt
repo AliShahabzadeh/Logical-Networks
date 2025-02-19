@@ -1,5 +1,5 @@
-INPUT SIGNALS: r, a, b
-OUTPUT: S, R
+INPUT SIGNAL(S): r, a, b
+OUTPUT SIGNAL(S): S, R
 
 EXPRESSION:
   S = (r + a + b) . (r + a' + b') . (r' + a + b') . (r' + a' + b)
