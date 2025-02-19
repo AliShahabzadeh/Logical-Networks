@@ -70,3 +70,27 @@ E8) LIMITATION
 
 
 E9) COMBINATION
+  INPUT SIGNALS: x, y
+  OUTPUT: x
+
+  EXPRESSION:
+    x = (x . y) + (x . y')
+    x = (x + y) . (x + y')
+
+
+E10) THE DE-MORGAN LAWS
+  INPUT SIGNALS: x, y
+  OUTPUT: w
+
+  EXPRESSIONS (w =):
+    (x + y)' = x' . y'
+    (x . y)' = x' + y'
+
+
+E11) CONSENT
+  INPUT SIGNALS: x, y, z
+  OUTPUT: w
+
+  EXPRESSIONS (w =)
+    (x . y) + (x' . z) + (y . z)  =  (x . y) + (x' . z)
+    (x + y) . (x' + z) . (y + z)  =  (x + y) . (x' + z)
