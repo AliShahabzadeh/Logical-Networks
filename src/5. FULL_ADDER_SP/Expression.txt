@@ -1,4 +1,6 @@
-INPUT SIGNALS: a, b, r
+INPUT SIGNALS: r, a, b
 OUTPUT = S, R
 
 EXPRESSION:
+  S = (r' . a' . b) + (r' . a . b') + (r . a' . b') + (r . a . b)
+  R = (r' . a . b) + (r . a' . b) + (r . a . b') + (r . a . b)
