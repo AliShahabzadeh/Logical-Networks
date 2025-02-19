@@ -1,6 +1,6 @@
 E1) COMMUTATIVE
-  INPUT SIGNALS: x, y
-  OUTPUT: z
+  INPUT SIGNAL(S): x, y
+  OUTPUT SIGNAL(S): z
 
   EXPRESSION (z =):
     x . y = y . x
@@ -8,8 +8,8 @@ E1) COMMUTATIVE
 
 
 E2) ASSOCIATIVE
-  INPUT SIGNALS: x, y, z
-  OUTPUT: w
+  INPUT SIGNAL(S): x, y, z
+  OUTPUT SIGNAL(S): w
 
   EXPRESSION (w =):
     x . y . z  =  (x . y) . z  =  x . (y . z)  =  (x . z) . y
@@ -17,8 +17,8 @@ E2) ASSOCIATIVE
 
 
 E3) DISTRIBUTIVE
-  INPUT SIGNALS: x, y, z
-  OUTPUT: w
+  INPUT SIGNAL(S): x, y, z
+  OUTPUT SIGNAL(S): w
 
   EXPRESSION (w =):
     (x . y) + (x . z)  =  x . (y + z)
@@ -26,8 +26,8 @@ E3) DISTRIBUTIVE
 
 
 E4) IDEMPOTENCE
-  INPUT SIGNALS: x
-  OUTPUT: x
+  INPUT SIGNAL(S): x
+  OUTPUT SIGNAL(S): x
 
   EXPRESSION:
     x = x . x
@@ -35,8 +35,8 @@ E4) IDEMPOTENCE
 
 
 E5) IDENTITY
-  INPUT SIGNALS: x
-  OUTPUT: x
+  INPUT SIGNAL(S): x
+  OUTPUT SIGNAL(S): x
 
   EXPRESSION:
     x = x + 0
@@ -44,8 +44,8 @@ E5) IDENTITY
 
 
 E6) LIMIT
-  INPUT SIGNALS: x
-  OUTPUT: SIGNAL
+  INPUT SIGNAL(S): x
+  OUTPUT SIGNAL(S): SIGNAL
 
   EXPRESSION:
     1 = x + 1
@@ -53,16 +53,16 @@ E6) LIMIT
 
 
 E7) INVOLUTION
-  INPUT SIGNALS: x
-  OUTPUT: x
+  INPUT SIGNAL(S): x
+  OUTPUT SIGNAL(S): x
 
   EXPRESSION:
     x = (x')'
 
 
 E8) LIMITATION
-  INPUT SIGNALS: x
-  OUTPUT: SIGNAL
+  INPUT SIGNAL(S): x
+  OUTPUT SIGNAL(S): SIGNAL
 
   EXPRESSION:
     1 = x + x'
@@ -70,8 +70,8 @@ E8) LIMITATION
 
 
 E9) COMBINATION
-  INPUT SIGNALS: x, y
-  OUTPUT: x
+  INPUT SIGNAL(S): x, y
+  OUTPUT SIGNAL(S): x
 
   EXPRESSION:
     x = (x . y) + (x . y')
@@ -79,8 +79,8 @@ E9) COMBINATION
 
 
 E10) THE DE-MORGAN LAWS
-  INPUT SIGNALS: x, y
-  OUTPUT: w
+  INPUT SIGNAL(S): x, y
+  OUTPUT SIGNAL(S): w
 
   EXPRESSIONS (w =):
     (x + y)' = x' . y'
@@ -88,8 +88,8 @@ E10) THE DE-MORGAN LAWS
 
 
 E11) CONSENT
-  INPUT SIGNALS: x, y, z
-  OUTPUT: w
+  INPUT SIGNAL(S): x, y, z
+  OUTPUT SIGNAL(S): w
 
   EXPRESSIONS (w =)
     (x . y) + (x' . z) + (y . z)  =  (x . y) + (x' . z)
