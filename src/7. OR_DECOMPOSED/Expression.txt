@@ -1,1 +1,6 @@
+INPUT SIGNALS: X15..X0
+OUTPUT = Z
 
+EXPRESSION:
+  Z = X15 + .. + X0
+  Z = (X15 + .. + X8) + (X7 + .. + X0)
