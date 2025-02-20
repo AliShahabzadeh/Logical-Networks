@@ -37,5 +37,7 @@ You can access my course notes on GoodNotes here:
 > [!NOTE]
 > The course is taught in Italian, so the notes are also written in Italian.
 
-## Usage Rights
-This is a university exercise course repository, created solely for free use in learning purposes.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
