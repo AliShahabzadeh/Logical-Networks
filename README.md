@@ -5,9 +5,6 @@ Exercises from the *Reti Logiche T* course
 - **Course Name:** Reti Logiche T  
 - **Degree Program:** Computer Engineering (*Ingegneria Informatica*)  
 - **Cycle:** First Cycle (Bachelor's, 3 years)  
-- **Year:** 1st  
-- **Semester:** 2nd
-- **Academic Year:** 2021/22  
 - **University:** Alma Mater Studiorum – University of Bologna 
 
 ## File Structure
