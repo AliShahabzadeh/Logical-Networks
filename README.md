@@ -2,11 +2,11 @@
 Exercises from the *Reti Logiche T* course
 
 ## 📌 Table of Contents
-- 📚 [Course Info](#-course-info)
-- 📁 [File Structure](#-file-structure)
-- 🛠️ [How to Use the Files](#-how-to-use-the-files)
-- 📝 [Course Notes](#-course-notes)
-- 📄 [License](#-license)
+- 📚 [Course Info](#course-info)
+- 📁 [File Structure](#file-structure)
+- 🛠️ [How to Use the Files](#how-to-use-the-files)
+- 📝 [Course Notes](#course-notes)
+- 📄 [License](#license)
 
 ## Course Info
 - **Course Name:** Reti Logiche T  
