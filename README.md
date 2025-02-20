@@ -11,10 +11,11 @@ Exercises from the *Reti Logiche T* course
 Each exercise file follows this structure: 
 
 ```
-Exercise/
-├── Design.dig  
-├── Expression.txt  
-└── Calculations.pdf
+src/
+└── <Exercise>/
+     ├── Design.dig  
+     ├── Expression.txt  
+     └── Calculations.pdf
 ```
 
 ### **Explanation:**
