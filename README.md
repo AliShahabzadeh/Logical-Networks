@@ -1,7 +1,14 @@
 # Logical-Networks
 Exercises from the *Reti Logiche T* course
 
-## Course info
+## 📌 Table of Contents
+- 📚 [Course Info](#-course-info)
+- 📁 [File Structure](#-file-structure)
+- 🛠️ [How to Use the Files](#-how-to-use-the-files)
+- 📝 [Course Notes](#-course-notes)
+- 📄 [License](#-license)
+
+## Course Info
 - **Course Name:** Reti Logiche T  
 - **Degree Program:** Computer Engineering (*Ingegneria Informatica*)  
 - **Cycle:** First Cycle (Bachelor's, 3 years)  
@@ -24,11 +31,11 @@ src/
 > - `Expression.txt`: Contains the Boolean expression for the exercise  
 > - `Calculations.pdf`: Provides the step-by-step calculations leading to the solution
 
-## How to use the files
+## How to Use the Files
 To open and run the `.dig` files, you will need the **Digital** logic simulator, which can be downloaded here:  
 [> Digital by hneemann](https://github.com/hneemann/Digital)
 
-## Course Notes (Italian)
+## Course Notes
 You can access my course notes on GoodNotes here:    
 [Notes](https://goodnotes.com)  
 </br>
