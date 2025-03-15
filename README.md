@@ -37,11 +37,12 @@ To open and run the `.dig` files, you will need the **Digital** logic simulator,
 
 ## Course Notes
 You can access my course notes on GoodNotes here:    
-[Notes](https://goodnotes.com)  
+</br>
+[![My Notes](https://img.shields.io/badge/GoodNotes-My%20Notes-blue?style=flat)](https://goodnotes.com)
+</br>
 </br>
 > [!NOTE]
-> The course is taught in Italian, so the notes are also written in Italian.
-
+> The course is taught in Italian, so the notes are also written in Italian.  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
