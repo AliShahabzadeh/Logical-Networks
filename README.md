@@ -33,7 +33,8 @@ src/
 
 ## How to Use the Files
 To open and run the `.dig` files, you will need the **Digital** logic simulator, which can be downloaded here:  
-[> Digital by hneemann](https://github.com/hneemann/Digital)
+</br>
+[![Digital](https://img.shields.io/badge/Digital-hneemann-lightgreen?style=flat)](https://github.com/hneemann/Digital)
 
 ## Course Notes
 You can access my course notes on GoodNotes here:    
