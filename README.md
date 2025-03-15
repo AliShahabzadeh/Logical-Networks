@@ -20,16 +20,18 @@ Each exercise file follows this structure:
 ```
 src/
 └── <Exercise>/
+     ├── Calculations.pdf  
      ├── Design.dig  
      ├── Expression.txt  
-     └── Calculations.pdf
+     └── Simulation.v
 ```
 
 ### **Explanation:**
 > [!TIP]
+> - `Calculations.pdf`: Provides the step-by-step calculations leading to the solution
 > - `Design.dig`: Contains the logic circuit design for the exercise  
 > - `Expression.txt`: Contains the Boolean expression for the exercise  
-> - `Calculations.pdf`: Provides the step-by-step calculations leading to the solution
+> - `Simulation.v`: Contains the simulation of the desired circuit in Verilog
 
 ## How to Use the Files
 To open and run the `.dig` files, you will need the **Digital** logic simulator, which can be downloaded here:  
@@ -39,7 +41,7 @@ To open and run the `.dig` files, you will need the **Digital** logic simulator,
 ## Course Notes
 You can access my course notes on GoodNotes here:    
 </br>
-[![My Notes](https://img.shields.io/badge/GoodNotes-My%20Notes-blue?style=flat)](https://goodnotes.com)
+[![My Notes](https://img.shields.io/badge/GoodNotes-Italian-blue?style=flat)](https://goodnotes.com)
 </br>
 </br>
 > [!NOTE]
