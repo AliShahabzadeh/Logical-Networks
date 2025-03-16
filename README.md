@@ -56,6 +56,9 @@ You can access my course notes on GoodNotes here:
 </br>
 > [!NOTE]
 > The course is taught in Italian, so the notes are also written in Italian.  
+
+> [!CAUTION]
+> The course notes are not covered under the MIT License.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
