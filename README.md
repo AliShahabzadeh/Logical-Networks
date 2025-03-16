@@ -36,7 +36,17 @@ src/
 ## How to Use the Files
 To open and run the `.dig` files, you will need the **Digital** logic simulator, which can be downloaded here:  
 </br>
-[![Digital](https://img.shields.io/badge/Digital-hneemann-lightgreen?style=flat)](https://github.com/hneemann/Digital)
+[![Digital](https://img.shields.io/badge/Digital-hneemann-lightgreen?style=flat)](https://github.com/hneemann/Digital)  
+</br>
+To open and run the `.v` files, you will need a Verilog simulator like iVerilog, which can be found here:  
+</br>
+[![Digital](https://img.shields.io/badge/Icarus%20Verilog-steveicarus-red?style=flat)](https://github.com/hneemann/Digital)  
+</br>
+Then, to compile and run the Verilog file, use the following commands in Terminal:
+```bash
+> iverilog -o simulation <DIR_PATH>/simulation.v
+> vvp simulation
+```
 
 ## Course Notes
 You can access my course notes on GoodNotes here:    
