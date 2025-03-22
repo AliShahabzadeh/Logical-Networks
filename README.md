@@ -54,7 +54,7 @@ Then, to compile and run the Verilog file, use the following commands in Termina
 ## Course Notes
 You can access my course notes on GoodNotes here:    
 </br>
-[![My Notes](https://img.shields.io/badge/GoodNotes-Italian-blue?style=flat)](https://goodnotes.com)
+[![My Notes](https://img.shields.io/badge/GoodNotes-Italian-blue?style=flat)](https://web.goodnotes.com/s/s08mGi8vn1NuIpHo8Euquu)
 </br>
 </br>
 > [!NOTE]
