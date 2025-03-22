@@ -33,6 +33,9 @@ src/
 > - `Expression.txt`: Contains the Boolean expression for the exercise  
 > - `Simulation.v`: Contains the simulation of the desired circuit in Verilog
 
+> [!WARNING]
+> Not all files within the directories are complete, as my study process is still ongoing.
+
 ## How to Use the Files
 To open and run the `.dig` files, you will need the **Digital** logic simulator, which can be downloaded here:  
 </br>
